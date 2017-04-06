@@ -12,5 +12,7 @@ To Install Repo:
 Install CocoaPods (Dependency Manager)
 1. sudo gem install cocoapods
 
-Work on 'SmartHomeiOS.xcworkspace' not 'SmartHomeiOS.xcodeproj' or else Firebase API will not work
+Work on 'SmartHomeiOS.xcworkspace' not 'SmartHomeiOS.xcodeproj' or else Firebase/AmazonS3 API will not work
 
+
+****May need to do 'pod install' of getting dependency errors***
